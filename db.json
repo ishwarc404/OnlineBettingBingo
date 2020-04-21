@@ -1,0 +1,13 @@
+{
+  "totalBets": [],
+  "cornerParticipants": [],
+  "earlyParticipants": [],
+  "fullHouseParticipants": [],
+  "betStates": {
+    "corner": true,
+    "early": true,
+    "fullHouse": true
+  },
+  "participants":[],
+  "currentNumber":"∞"
+}

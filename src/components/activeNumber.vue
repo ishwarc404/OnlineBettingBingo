@@ -12,9 +12,9 @@
 
 <style  scoped>
 #activeNumber{
-  font-size: 300px;
+  font-size: 200px;
   font-weight: bold;
-  line-height: 300px;
+  line-height: 220px;
 }
 #title{
   font-size: 20px;

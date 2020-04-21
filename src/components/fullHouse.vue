@@ -3,7 +3,7 @@
       <v-chip class="ma-2" color="yellow" label large text-color="black">
         <p id="bets">FULL HOUSE</p>
       </v-chip>
-      <div style="padding-top:2%;">
+      <div>
         <v-btn class="mx-2" fab dark color="indigo">
           <v-icon dark>mdi-plus</v-icon>
         </v-btn>

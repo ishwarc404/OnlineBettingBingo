@@ -4,7 +4,7 @@
       <v-icon left>mdi-numeric-7-box</v-icon>
       <p id="bets">EARLY 7</p>
     </v-chip>
-    <div style="padding-top:2%;">
+    <div >
       <v-btn class="mx-2" fab dark color="indigo">
         <v-icon dark>mdi-plus</v-icon>
       </v-btn>
